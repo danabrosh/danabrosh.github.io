@@ -2,8 +2,7 @@
 ___
 
 ## **About Me**
----
-      <img src="science-icon.png.webp" alt="Science icon" align="left"
+---<img src="science-icon.png.webp" alt="Science icon" align="left"
      width="180"
      style="margin-left: -30px; margin-right: 30px; margin-bottom: 10px;
             border-radius: 20px;
