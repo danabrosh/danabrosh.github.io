@@ -3,7 +3,11 @@ ___
 
 ## **About Me**
 ---
-<img src="science-icon.png.webp" alt="Science icon" align="right" width="180" style="margin-left: 20px; border-radius: 10px;">
+<img src="science-icon.png.webp" alt="Science icon" align="right"
+     width="180"
+     style="margin-left: 40px; margin-right: -10px; border-radius: 20px;
+            box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+            filter: hue-rotate(190deg);">
 
 🧬 First-year Master's student in Life Sciences at the Weizmann Institute of Science, currently participating in lab rotations:
   - **First rotation** – Dr. Meital Oren-Suissa's lab (Department of Brain Sciences)  
