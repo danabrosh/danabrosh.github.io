@@ -2,10 +2,9 @@
 ___
 
 ## **About Me**
----
-<img src="science-icon.png.webp" alt="Science icon" align="right"
+---<img src="science-icon.png.webp" alt="Science icon" align="left"
      width="180"
-     style="position: relative; right: -220px; margin-left: 80px;
+     style="margin-right: 30px; margin-bottom: 10px;
             border-radius: 20px;
             box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
             filter: hue-rotate(190deg);">
