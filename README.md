@@ -5,7 +5,7 @@ ___
 ---
 <img src="science-icon.png.webp" alt="Science icon" align="right"
      width="180"
-     style="position: relative; right: -120px; margin-left: 60px;
+     style="position: relative; right: -220px; margin-left: 80px;
             border-radius: 20px;
             box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
             filter: hue-rotate(190deg);">
